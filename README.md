@@ -1,3 +1,6 @@
+<p align="center">
+  <img align="center" width="25%" src="/assets/turtle-tech.png" alt="header"/>
+</p>
 <samp>
 <p align="center">
   <h1 align="center">Hey there! 👋  </h1>
@@ -7,16 +10,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Phags-pa&weight=900&size=15&letterSpacing=-0.30px&duration=1000&pause=100&background=1C1F3B00&center=true&multiline=true&repeat=false&width=460&height=70&lines=From+breaking+things+apart+to+building+them+better...;%E2%80%8E;A+byte-sized+perpetual+prototype+tinkerer" alt="Typing SVG" /></a>
 </p>
 
-###
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotThushar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotThushar&theme=redical&area=true&order=5&hide_border=true&hide_title=false&custom_title=destruction%20graph%20%20" height="200" alt="activity-graph graph"  />
-</div>
+#### :octocat:  My Github Stats
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/notthushar">
+        <img src="https://github-readme-stats.vercel.app/api?username=notthushar&show_icons=true&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/notthushar">
+        <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=notthushar&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-###
 
-<h1 align="left">⚡ Technologies</h1>
+---
+
+#### ⚡ Technologies
 
 ###
 
@@ -40,6 +55,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+
+
+<br>
+<p align="center">
+  <img src="assets/header.png" alt="header"/>
+</p>
+
 ###
 <br clear="both">
 
@@ -54,12 +76,17 @@
     <img src="https://img.shields.io/github/followers/notthushar?label=Follow%20Me&style=social"/>
   </p>
  
-<h2 align="left">Sanke who ate my contributions🙃</h2>
+#### :lotus_position_man:Sanke who ate my contributions
 <img src="https://raw.githubusercontent.com/NotThushar/NotThushar/output/snake.svg" alt="Snake animation" />
 
 ###
-<h2 align="left">💰 You can help me by Donating:</h2>
-<p><a href="https://www.buymeacoffee.com/notthushar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="notthushar" /></a></p><br><br>
+<p align="center">
+  <h5 align="center"> Staying Motivated </h5>
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/notthushar" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
+</p>
 
 
 <!--

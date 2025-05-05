@@ -17,6 +17,7 @@
       <a href="https://github.com/notthushar">
         <img src="https://github-readme-stats.vercel.app/api?username=notthushar&show_icons=true&theme=algolia" />
       </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotThushar&theme=algolia&show_icons=true&hide_border=false&layout=compact" alt="NotThushar's GitHub Stats" />
     </td>
   </tr>
   <tr>
